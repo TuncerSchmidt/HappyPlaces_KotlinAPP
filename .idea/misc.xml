@@ -6,7 +6,9 @@
         <entry key="app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1185" />
         <entry key="app/src/main/res/drawable/shape_button_rounded.xml" value="0.1185" />
         <entry key="app/src/main/res/layout/activity_add_happy_place.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/activity_happy_place_detail.xml" value="0.23802083333333332" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22395833333333334" />
+        <entry key="app/src/main/res/layout/item_happy_place.xml" value="0.23802083333333332" />
       </map>
     </option>
   </component>
